@@ -1,0 +1,7 @@
+*.spec
+*.log
+build
+buildExe.cmd
+runme.cmd
+*input/
+*output/
